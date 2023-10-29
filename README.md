@@ -8,5 +8,5 @@
 
 Scripts generally have two versions:
 
-- expository: typically not idempotent; these scripts illustrate concepts cleanly and clearly
-- idempotent: includes some error handling; this also introduces some additional complexity
+- basic: typically not idempotent; these scripts illustrate concepts cleanly and clearly with little or no error handling
+- idempotent: includes some error handling; this also introduces some complexity, but is likely a better script
