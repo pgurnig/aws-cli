@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/pgurnig/aws-cli/blob/main/images/aws-cli-simply-presented.png" alt="simply-presented"/>
+    <img src="https://github.com/pgurnig/aws-cli/blob/main/images/aws-cli-simply-presented-small.png" alt="simply-presented"/>
 </p>
 
 ## AWS CodeCommit and KMS
